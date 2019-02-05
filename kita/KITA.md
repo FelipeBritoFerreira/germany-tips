@@ -73,8 +73,7 @@ Enviar por correio pro Jugendamt do seu bairro.
 4. Cópia da certidão de nascimento da criança (original e traduzida).
 
 5. Formulário Financeiro
-> Entre no site: https://service.berlin.de/dienstleistung/324873/   
-> No site, lá em baixo você clica em: Erklärung für die Festsetzung der Beteiligung an den Kosten der Tagesbetreuung von Kindern
+> Baixar o [formulário](https://www.familie-ev.de/app/download/12768531333/Kostenerkl%C3%A4rung.pdf?t=1531992026)
 
 6. Comprovante de renda dos últimos 3 meses.
 
