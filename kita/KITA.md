@@ -72,13 +72,13 @@ Enviar por correio pro Jugendamt do seu bairro.
 
 4. Cópia da certidão de nascimento da criança (original e traduzida).
 
-5. Formulário Financeiro
-> Baixar o [formulário](https://www.familie-ev.de/app/download/12768531333/Kostenerkl%C3%A4rung.pdf?t=1531992026)
+5. [Formulário Financeiro](https://www.familie-ev.de/app/download/12768531333/Kostenerkl%C3%A4rung.pdf?t=1531992026)
+> Checar passo 3 - preenchimento
 
 6. Comprovante de renda dos últimos 3 meses.
 
 
-## Passo 3: Formulário financeiro
+## Passo 3: Preenchimento do formulário financeiro
 
 Dicas item a item para o preenchimento do formulário
 
