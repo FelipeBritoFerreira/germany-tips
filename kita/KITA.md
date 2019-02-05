@@ -79,7 +79,7 @@ Enviar por correio pro Jugendamt do seu bairro.
 6. Comprovante de renda dos últimos 3 meses.
 
 
-### Passo 3: Formulário financeiro
+## Passo 3: Formulário financeiro
 
 1. Dicas item a item para o preenchimento do formulário
 
