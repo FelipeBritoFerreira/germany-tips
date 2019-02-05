@@ -81,38 +81,44 @@ Enviar por correio pro Jugendamt do seu bairro.
 
 ## Passo 3: Formulário financeiro
 
-1. Dicas item a item para o preenchimento do formulário
+Dicas item a item para o preenchimento do formulário
 
-Personalien des/der betreuten Kindes/Kinde
+* Personalien des/der betreuten Kindes/Kinde
 
 Name: Sobrenome da criança
 Vorname: Primeiro nome da criança
 Geburtsdatum: Data de nascimento da criança (dd.mm.yyyy)
 Meldeanschrift des Kindes / der Kinder: Endereço da criança
 
-Personalien der Mutter/des Vater
+* Personalien der Mutter/des Vater
 
 Preencher com os dados pessoais do pai e da mãe
 Meldeanschrift: marcar (ambos serão notificados sobre o status da solicitação)
 
-Zutreffendes bitte ankreuzen! Beachten Sie auch die Erläuterungen und Hinweise
+* Zutreffendes bitte ankreuzen! Beachten Sie auch die Erläuterungen und Hinweise
 
-Marcar o primeiro item, caso todos da família morem junto com a criança
+Marcar o primeiro item, caso todos da família morem junto com a criança.
+
 Wir leben mit unserem Kind/unseren Kindern zusammen (gleiche Meldeanschrift). (In diesem Fall müssen beide Elternteile ihr Einkommen nachweisen und diese Erklärung unterschreiben!)
 
-Item 3, marcar a opção 3 c)
+* Item 3, marcar a opção 3 c)
+
 Preencher a previsão de ganho anual da mãe (mutter) e pai (vater) referente ao corrente (ano da solicitação do Gutschein). Caso não tenha previsão de alguma das partes (exemplo: a mãe ainda não trabalha) deixar a parte em branco.
 
+* Mein/Unser Einkommen im laufenden Kalenderjahr ist voraussichtlich geringer als im letzten Kalenderjahr.  Wir beantragen eine vorläufige Festsetzung der Kostenbeteiligung auf der Grundlage des laufenden  Kalenderjahres. Die Summe meiner/unserer positiven Einkünfte (Jahresbruttoeinkommen minus maßgebliche pauschale Werbungskosten oder Gewinn) des laufenden Kalenderjahres wird voraussichtlich
 
-Mein/Unser Einkommen im laufenden Kalenderjahr ist voraussichtlich geringer als im letzten Kalenderjahr.  Wir beantragen eine vorläufige Festsetzung der Kostenbeteiligung auf der Grundlage des laufenden  Kalenderjahres. Die Summe meiner/unserer positiven Einkünfte (Jahresbruttoeinkommen minus maßgebliche pauschale Werbungskosten oder Gewinn) des laufenden Kalenderjahres wird voraussichtlich
-
-Zu 3a 3b 3c - Bitte Einkommen der Eltern im gewählten maßgeblichen Kalenderjahr vor Festsetzung/ Betreuungsbeginn ankreuzen!
+* Zu 3a 3b 3c - Bitte Einkommen der Eltern im gewählten maßgeblichen Kalenderjahr vor Festsetzung/ Betreuungsbeginn ankreuzen!
 
 Marcar a primeira opção do lado do pai: 
+
 [x] Steuerbescheid oder Lohnsteuerbescheinigung(en) oder vollständige Gehaltsnachweise
 
-3 e)  ergänzende Hinweise/Erklärungen zu fehlenden Nachweisen o. Einkommen  
+* 3 e)  ergänzende Hinweise/Erklärungen zu fehlenden Nachweisen o. Einkommen  
 
 O que escrevi foi:
-Ich bin erst seit dem 01.05.2018 (trocar para a data de inicio do seu contrato de trabalho) in Deutschland, davor habe ich in Brasilien gelebt und gearbeitet. Mein Einkommen des letzten Jahres koennen Sie dem Anhang entnehmen. 
+
+Ich bin erst seit dem 01.05.2018 ```(trocar para a data de inicio do seu contrato de trabalho)``` in Deutschland, davor habe ich in Brasilien gelebt und gearbeitet. Mein Einkommen des letzten Jahres koennen Sie dem Anhang entnehmen. 
+
+```
 Obs: No mesmo envelope, eu enviei uma cópia da minha declaração de imposto de renda do brasil do ano anterior à solicitação do Gutschein.
+```
